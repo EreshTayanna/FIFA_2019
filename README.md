@@ -16,7 +16,8 @@ Below are the steps to execute the this project :
 Approach:
 =========
 Step-1 : Loaded data into spark dataframes and selected required columns and persisted into memory for faster performance
-Step-2 : 1. Filter out the data which includes only within 30 years of age and found most number by doing descending order
+Step-2 : 
+         1. Filter out the data which includes only within 30 years of age with left footed players and found most number by doing descending order
 
          2. Take the 4 best midfielders, 4 best defensive players and 2 best strikers from each team and get overall rating
             by doing descending order and take highest rated team
