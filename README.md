@@ -12,6 +12,7 @@ Below are the steps to execute the this project :
 2. FIFAMain is the driver program which you need to run and before running you need to pass below parameters
     a. args(0) as your running mode
     b. args(1) as your input file location either from HDFS or Local
+3. Once you run the driver code, kindly notice console for the expected output
 
 Approach:
 =========
