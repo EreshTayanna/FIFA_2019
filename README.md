@@ -32,4 +32,6 @@ Step-2 :
          6. Take the average of each attribute and iterate strikers attribute against it and take the top 5 attributes
          
         Finally unpersist the data to cleanup memory(Not required in production and this will be taken care by GC in LRU fashion)
-Step-3 : Writing a data to postgres database using write spark API's with respected modes and couldn't acheive writing data into postgres on docker due to short of time
+Step-3 : Writing a data to postgres database using write spark API's with respected modes on docker 
+
+
